@@ -1,0 +1,72 @@
+table {
+    width: 100%;
+    border: 0px solid;
+    color: #110b0b;
+    font-size: 12px;
+    margin-bottom: 15;
+
+  }
+
+
+
+  #contenido{
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  margin-right: 15%;
+  margin-left: 15%;
+  width: 70%;
+  background: #e7cceb;                  
+  padding: 15px;
+  
+
+
+  }
+  h1 {
+      margin-right: 800px;
+  }
+  #contenido h2{
+      justify-content: center;
+      text-align: center;
+      color: #ffffff;
+  }
+
+  #contenido p{
+      margin-left: 500px;
+      font-size: 15px;
+
+  }
+  #contenido h3{
+      text-align: center;
+  }
+  
+  .footer2 {
+      background-color: #5c07ca;
+      color: #ffffff;
+      text-align: left;
+      font-size: 12px;
+      padding: 5px;
+      text-align: center;
+    }
+    th:hover {border: 1px solid #777;
+  }
+
+
+    td {
+      text-align: center;
+      color: #ffffff;
+    }
+
+    input[type=button] {
+      background-color: #e4860b;  
+      color: rgb(253, 250, 250);
+      padding: 5px 12px;
+      text-decoration:#777;
+      cursor: pointer;
+      margin-left: 30px;
+    }
+    #contenido h5 {
+      color: #ffffff;
+    }
+
+    #contenido h6 {
+      font-size: 10px;
+    }
